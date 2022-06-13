@@ -1,0 +1,26 @@
+.post-title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.post-title:hover{
+    color: rosybrown
+}
+.post-subtitle:hover{
+    font-size: x-large;
+    color: rosybrown;
+}
+.btn{
+    background-color:darkgreen;
+}
+.btn:hover{
+    background-color:chartreuse;
+}
+.h1{
+    color: saddlebrown;
+}
+.mid{
+    position:absolute;
+    left: 30%;
+}
+.fst-italic{
+    font-family: cursive;
+}
